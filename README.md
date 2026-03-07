@@ -1,73 +1,125 @@
 <h1 align="center">👋 Olá, eu sou o Vinícius</h1>
 <h3 align="center">💻 Desenvolvedor Full-Stack • 🔐 Entusiasta em Segurança</h3>
 
+<p align="center">
+  Focado em automação, performance e segurança de software
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
 
 Sou desenvolvedor **Full-Stack** com foco em **automação, performance e segurança de software**.
 
-Atualmente curso **Bacharelado em Engenharia de Computação na UFOP/MG**, onde aplico fundamentos acadêmicos aliados à prática para desenvolver soluções **escaláveis, seguras e eficientes**.
+Atualmente curso **Bacharelado em Engenharia de Computação na UFOP/MG**, onde aplico fundamentos acadêmicos aliados à prática para construir **sistemas escaláveis, seguros e eficientes**.
 
-🚀 Gosto de construir sistemas bem estruturados, com **boas práticas de arquitetura, código limpo e alto desempenho**.
-
-**Principais interesses:**
-
-- 🌐 Desenvolvimento Web
-- 🔐 Segurança defensiva
-- 🤖 Automação de sistemas
-- 📡 IoT e integração hardware/software
-- ⚙️ Arquitetura de sistemas distribuídos
+Tenho grande interesse em **arquitetura de software, containers, infraestrutura e segurança defensiva**, sempre buscando desenvolver soluções com **código limpo, resiliência e alto desempenho**.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-**Linguagens**
+<div align="center">
 
-- TypeScript
-- JavaScript
-- Kotlin
-- Java
-- PHP
-- Go
+<table>
+<tr>
 
-**Frameworks & Runtimes**
+<td align="center" valign="top">
 
-- Node.js
-- Express
-- Next.js
-- NestJS
-- Ktor
+### Linguagens
 
-**Bancos de Dados**
+<p>
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
+</p>
 
-- MongoDB
-- MySQL
-- SQLite
-- Redis
+<p>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+<img src="https://skillicons.dev/icons?i=go" title="Go"/>
+</p>
 
-**DevOps & Cloud**
+</td>
 
-- Docker
-- Cloudflare
-- EasyPanel
+<td align="center" valign="top">
 
-**Sistemas Operacionais**
+### Frameworks
 
-- Linux (Ubuntu)
-- macOS
-- Windows
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/>
+<img src="https://skillicons.dev/icons?i=ktor" title="Ktor"/>
+</p>
+
+</td>
+
+<td align="center" valign="top">
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
+<img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+</p>
+
+</td>
+
+<td align="center" valign="top">
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
+<img src="https://skillicons.dev/icons?i=linux" title="Linux Server"/>
+</p>
+
+</td>
+
+<td align="center" valign="top">
+
+### Sistemas
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=apple" title="macOS"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows" title="Windows"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🔒 Áreas de Interesse
 
-- Hardening e segurança de containers
+- Segurança defensiva e hardening de containers
 - Arquitetura de sistemas distribuídos
 - DevOps e infraestrutura
 - Performance e otimização de aplicações web
-- IoT e sistemas embarcados
+- IoT e integração entre hardware e software
 
 ---
 
@@ -87,7 +139,7 @@ Atualmente curso **Bacharelado em Engenharia de Computação na UFOP/MG**, onde 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://discord.com/users/1364199507419598920" target="_blank">
+  <a href="https://discord.com/users/846782948916592664">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
