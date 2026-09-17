@@ -126,20 +126,10 @@ Tenho grande interesse em **arquitetura de software, containers, infraestrutura 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMS5413&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevinnip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinnip&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMS5413&theme=tokyonight&hide_border=true" width="70%">
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://discord.com/users/846782948916592664">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevinnip&theme=tokyonight&hide_border=true" width="70%">
 </p>
