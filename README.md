@@ -126,10 +126,10 @@ Tenho grande interesse em **arquitetura de software, containers, infraestrutura 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevinnip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevinnip&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+  <img src="https://github-stats-extended.vercel.app/api?username=thevinnip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thevinnip&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevinnip&theme=tokyonight&hide_border=true" width="70%">
+  <img src="https://streak-stats.demolab.com/?user=thevinnip&theme=tokyonight&hide_border=true" width="70%">
 </p>
